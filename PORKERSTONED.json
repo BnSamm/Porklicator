@@ -1,0 +1,27 @@
+{
+  "name": "Porklicator",
+  "description": "Stoned Porker",
+  "image": "https://github.com/BnSamm/Porklicator/blob/main/porkstonedrainbowbong.png?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Bong",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Stoned Eyes",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Pink Pepe",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Rainbow Breath",
+      "value": "Yes"
+    }
+  ]
+}
